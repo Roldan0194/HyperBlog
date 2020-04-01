@@ -2,6 +2,6 @@ Esta es una historia de Luis Roldan
 
 En esta historia estamos aprendiendo a usar ASPNET
 
-Y Git para el manejo de archivos
+Y Git para el manejo de archivos y el cargue de subcarpetas
 
 ayer hablamos de esto
