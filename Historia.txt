@@ -2,6 +2,8 @@ Esta es una historia de Luis Roldan
 
 En esta historia estamos aprendiendo a usar ASPNET
 
+Ademas es para probar varios usuarios
+
 Y Git para el manejo de archivos y el cargue de subcarpetas
 
 ayer hablamos de esto
